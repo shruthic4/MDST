@@ -1,0 +1,5 @@
+Introduce yourself in this file!
+
+Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+Hi, my name is Shruthi Chakravarthy and I'm a sophomore in LSA thinking about majoring in CS and BCN. A fun fact about me is that I have 2 dogs.
